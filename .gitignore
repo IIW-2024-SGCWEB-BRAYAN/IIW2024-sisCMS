@@ -1,1 +1,11 @@
+# 0 .env guardara as senhas do banco. o .env.exemple vai ao repositorio para dar parametros ao levantar o contrainer
 
+.env
+# Chaves e certificados
+*.pem
+*.key
+# Arquivos temporarios
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
